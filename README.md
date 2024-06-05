@@ -1,2 +1,1 @@
-# raw_data
-Collection of data files
+Just a collection of data files for use elsewhere
